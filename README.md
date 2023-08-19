@@ -7,8 +7,8 @@
 
 - 🔭 I’m currently working on **Facebook Clone**
 
-- 🌱 I’m currently learning **Laravel**
-
+- 🌱 I’m currently learning **Laravel, Tailwind CSS**
+- Tailwind CSS Basic **https://play.tailwindcss.com/a2TfGu78Vt**
 - 📫 How to reach me **satiyaganes.sg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

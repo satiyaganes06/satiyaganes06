@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satiyaganes06" alt="satiyaganes06" /></a> </p>
 
-- 🔭 I’m currently working on **Facebook Clone**
+- 🔭 I’m currently working on **Project Called myHSE (Flutter)**
 
 - 🌱 I’m currently learning **Laravel, Tailwind CSS**
 - Tailwind CSS Basic **https://play.tailwindcss.com/a2TfGu78Vt**

@@ -10,7 +10,7 @@
 <!--         </div> -->
 
 
-https://github.com/satiyaganes06/satiyaganes06/assets/73154081/cf124b65-c884-41bb-93d7-1c03b888465d
+https://github.com/satiyaganes06/satiyaganes06/assets/73154081/37cf4718-a8dc-4ecb-8178-8d4f289d4095
 
 
 <br/>

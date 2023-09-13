@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm satiyaGanes</h1>
 <h3 align="center">A passionate developer from Malaysia</h3>
 
-<div style="display:flex">
+
             <p align="left"> <img src="https://komarev.com/ghpvc/?username=satiyaganes06&label=Profile%20views&color=0e75b6&style=flat" alt="satiyaganes06" /> </p>
-            <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="satiyaganes06" width=600 /> 
-</div>
+            <img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="satiyaganes06" width=600 /> 
+
 
 
 

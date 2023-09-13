@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm satiyaGanes</h1>
 <h3 align="center">A passionate developer from Malaysia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satiyaganes06&label=Profile%20views&color=0e75b6&style=flat" alt="satiyaganes06" /> </p>
+<div display="flex">
+            <p align="left"> <img src="https://komarev.com/ghpvc/?username=satiyaganes06&label=Profile%20views&color=0e75b6&style=flat" alt="satiyaganes06" /> </p>
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="satiyaganes06" /> 
-<!-- <div align="left"  border-radius: "10px" >  -->
-<!--             <video autoplay loop muted playsinline>
-            <source src="https://firebasestorage.googleapis.com/v0/b/mad-mini-project-c822d.appspot.com/o/Blue%20Geometric%20Technology%20LinkedIn%20Banner.mp4?alt=media&token=c128e640-fcf6-4957-95d8-49897755e10e" type="video/mp4"> -->
-        </video> 
-<!--         </div> -->
+</div>
+
+
 
 
 

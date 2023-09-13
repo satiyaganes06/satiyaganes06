@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satiyaganes06&label=Profile%20views&color=0e75b6&style=flat" alt="satiyaganes06" /> </p>
 
-<div align="left"  border: "3px solid red" > <img src="https://firebasestorage.googleapis.com/v0/b/mad-mini-project-c822d.appspot.com/o/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?alt=media&token=7aa82af7-8b1f-4ca7-a4bd-11dabbddae90" alt="satiyaganes06" /> </p>
+<div align="left"  border-radius: "10px" > <img src="https://firebasestorage.googleapis.com/v0/b/mad-mini-project-c822d.appspot.com/o/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?alt=media&token=7aa82af7-8b1f-4ca7-a4bd-11dabbddae90" alt="satiyaganes06" /> </p>
 <br/>
 - 🔭 I’m currently working on **Project Called myHSE (Flutter)**
 

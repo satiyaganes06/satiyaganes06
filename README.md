@@ -4,8 +4,8 @@
 <h3 align="center">A passionate developer from Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satiyaganes06&label=Profile%20views&color=0e75b6&style=flat" alt="satiyaganes06" /> </p>
+<br/>
 <img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="satiyaganes06" width=500 /> 
-
 
 <br/>
 - 🔭 I’m currently working on **Project Called myHSE (Flutter)**

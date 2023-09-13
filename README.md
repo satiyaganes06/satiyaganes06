@@ -1,4 +1,4 @@
-<img src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" alt="android"></img>
+![image1](https://github.com/satiyaganes06/satiyaganes06/assets/73154081/b1535aac-623d-4a0b-bdfa-811551fe4e01)
 
 <h1 align="center">Hi 👋, I'm satiyaGanes</h1>
 <h3 align="center">A passionate developer from Malaysia</h3>

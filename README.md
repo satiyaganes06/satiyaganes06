@@ -7,8 +7,6 @@
 <br/>
 <img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="satiyaganes06" width=500 /> 
 
-<br/>
-
 - 🔭 I’m currently working on **Project Called myHSE (Flutter)**
 
 - 🌱 I’m currently learning **Laravel, Tailwind CSS**

@@ -1,4 +1,4 @@
-<img href="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" alt="satiyaganes06"></img>
+<img src="https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif" alt="android"></img>
 
 <h1 align="center">Hi 👋, I'm satiyaGanes</h1>
 <h3 align="center">A passionate developer from Malaysia</h3>

@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shattiya-ganes-a-l-sivakumaran-b0a315209" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" alt="shattiya-ganes-a-l-sivakumaran-b0a315209" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/satiya-ganes-b0a315209/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" alt="shattiya-ganes-a-l-sivakumaran-b0a315209" height="40" width="40" /></a>
 </p>
 
 <br/>

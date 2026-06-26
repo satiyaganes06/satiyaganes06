@@ -7,9 +7,9 @@
 <div width=20></div>
 <img align="right" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="satiyaganes06" width=450 /> 
 
-- 🔭 I’m currently working on **Project Called MyHSE OSH Freelancer App (Flutter)**
+- 🔭 I’m currently working on **Project Called Cargozaa WebApps (Laravel)**
 
-- 🌱 I’m currently learning **Laravel, Tailwind CSS**
+- 🌱 I’m currently learning **AI Automation**
 - Tailwind CSS Basic **https://play.tailwindcss.com/a2TfGu78Vt**
 - 📫 How to reach me **satiyaganes.sg@gmail.com**
 

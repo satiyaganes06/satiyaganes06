@@ -27,8 +27,7 @@
             width="40"
         />
     </a>
-
-    <a href="https://www.xing.com/profile/Satiya_Ganes?nwt_nav=profile" target="_blank">
+<a href="https://www.xing.com/profile/Satiya_Ganes?nwt_nav=profile" target="_blank">
         <img
             src="https://cdn-icons-png.flaticon.com/512/2111/2111737.png"
             alt="Xing"
@@ -37,7 +36,7 @@
         />
     </a>
 
-    <a href="https://medium.com/@satiyaganes.sg" target="_blank">
+<a href="https://medium.com/@satiyaganes.sg" target="_blank">
         <img
             src="https://images.icon-icons.com/3041/PNG/512/medium_logo_icon_189223.png"
             alt="Medium"

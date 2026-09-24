@@ -18,6 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/satiya-ganes-b0a315209/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" alt="shattiya-ganes-a-l-sivakumaran-b0a315209" height="40" width="40" /></a>
+            
+<a href="https://www.xing.com/profile/Satiya_Ganes?nwt_nav=profile" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111737.png" alt="Satiya_Ganes?nwt_nav=profile" height="40" width="40" /></a>
 </p>
 
 <br/>

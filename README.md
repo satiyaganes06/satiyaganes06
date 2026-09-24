@@ -17,9 +17,36 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/satiya-ganes-b0a315209/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" alt="shattiya-ganes-a-l-sivakumaran-b0a315209" height="40" width="40" /></a>
-            
-<a href="https://www.xing.com/profile/Satiya_Ganes?nwt_nav=profile" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111737.png" alt="Satiya_Ganes?nwt_nav=profile" height="40" width="40" /></a>
+
+<div style="display: flex; align-items: center; gap: 15px;">
+    <a href="https://www.linkedin.com/in/satiya-ganes-b0a315209/" target="_blank">
+        <img
+            src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png"
+            alt="LinkedIn"
+            height="40"
+            width="40"
+        />
+    </a>
+
+    <a href="https://www.xing.com/profile/Satiya_Ganes?nwt_nav=profile" target="_blank">
+        <img
+            src="https://cdn-icons-png.flaticon.com/512/2111/2111737.png"
+            alt="Xing"
+            height="40"
+            width="40"
+        />
+    </a>
+
+    <a href="https://medium.com/@satiyaganes.sg" target="_blank">
+        <img
+            src="https://images.icon-icons.com/3041/PNG/512/medium_logo_icon_189223.png"
+            alt="Medium"
+            height="40"
+            width="40"
+        />
+    </a>
+</div>
+
 </p>
 
 <br/>
